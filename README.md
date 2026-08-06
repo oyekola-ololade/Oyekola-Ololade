@@ -40,51 +40,57 @@ My work combines AI, workflow orchestration, APIs, and scalable architectures to
 
 ---
 
-# 🚀 Featured Systems
+<h2>🚀 Featured Systems</h2>
 
-## 🚀 FlowForge AVA
+<table>
+<tr>
+<td width="33%" valign="top">
 
-**AI Lead Operating System for WhatsApp**
+<h3>🚀 FlowForge AVA</h3>
 
-A production-ready multi-agent AI platform that qualifies leads, answers customer enquiries, checks calendar availability, synchronizes CRM data, and schedules meetings through a coordinated network of specialized AI agents.
+<b>AI Lead Operating System</b>
 
-**Core Technologies**
+Production-ready multi-agent AI system for WhatsApp that qualifies leads, synchronizes CRM data, and schedules meetings autonomously.
 
-`OpenAI API` • `n8n` • `WhatsApp Business API` • `Google Workspace APIs` • `Airtable` • `Docker`
+<br><br>
 
-🔗 Repository
+<a href="https://github.com/oyekola-ololade/FlowForge-Ava-AI">
+View Repository →
+</a>
 
-https://github.com/oyekola-ololade/FlowForge-Ava-AI
+</td>
 
----
+<td width="33%" valign="top">
 
-## 📧 MailIQ
+<h3>📧 MailIQ</h3>
 
-**AI Email Intelligence Platform**
+<b>AI Email Intelligence Platform</b>
 
-A production-ready multi-tenant SaaS platform that monitors Gmail and Outlook inboxes in real time, classifies emails using AI, and delivers structured summaries across WhatsApp, Telegram, Slack, and Discord while managing authentication, subscriptions, and personalized AI agents.
+Multi-tenant SaaS platform that transforms incoming emails into AI-powered summaries delivered across multiple communication channels.
 
-**Core Technologies**
+<br><br>
 
-`OpenAI API` • `Python` • `n8n` • `Docker` • `Railway` • `OAuth 2.0`
+<a href="https://github.com/oyekola-ololade/Mail-IQ">
+View Repository →
+</a>
 
-🔗 Repository
+</td>
 
-https://github.com/oyekola-ololade/Mail-IQ
+<td width="33%" valign="top">
 
----
+<h3>📰 NewsIQ</h3>
 
-## 📰 NewsIQ
+<b>Enterprise AI News Platform</b>
 
-**Enterprise AI News Intelligence Platform**
+Fault-tolerant AI news pipeline automating ingestion, clustering, verification, media production, and distribution.
 
-An enterprise AI news intelligence platform engineered around a fault-tolerant orchestration pipeline that automates news ingestion, clustering, editorial prioritization, verification, AI-assisted content generation, media production, distribution, analytics, and long-term memory.
+<br><br>
 
-**Core Technologies**
+🚧 Coming Soon
 
-`OpenAI API` • `Python` • `n8n` • `Docker` • `FFmpeg`
-
-🚧 Repository Coming Soon
+</td>
+</tr>
+</table>
 
 ---
 
