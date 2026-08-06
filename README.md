@@ -52,8 +52,9 @@ Production-ready multi-agent AI platform for autonomous lead qualification, cust
 - Google Calendar Scheduling
 - Long-Term Conversation Memory
 
-**Technology**: OpenAI · n8n · Docker · WhatsApp Business API · Google Calendar · Airtable
+**Technology**
 
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Calendar-4285F4?style=flat-square&logo=googlecalendar&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Docs-4285F4?style=flat-square&logo=googledocs&logoColor=white"/> <img src="https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white"/>
 [View Architecture →](#) · [View Demo →](#) · [Repository →](https://github.com/oyekola-ololade/FlowForge-Ava-AI)
 
 </td>
@@ -79,7 +80,9 @@ Multi-tenant SaaS platform that monitors Gmail and Outlook in real time, classif
 - OAuth 2.0 Authentication
 - Automated AI Agent Provisioning
 
-**Technology**: OpenAI · Python · n8n · Docker · Railway · OAuth 2.0 · Paystack
+**Technology**
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white"/> <img src="https://img.shields.io/badge/OAuth_2.0-3C873A?style=flat-square&logo=auth0&logoColor=white"/> <img src="https://img.shields.io/badge/Paystack-00C3F7?style=flat-square&logo=paystack&logoColor=white"/>
 
 [View Architecture →](#) · [View Demo →](#) · [Repository →](https://github.com/oyekola-ololade/Mail-IQ)
 
@@ -106,7 +109,9 @@ Distributed AI system automating the full news production lifecycle — ingestio
 - Automated Media Production
 - Long-Term Memory Architecture
 
-**Technology**: OpenAI · Python · n8n · Docker · FFmpeg
+**Technology**
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white"/>
 
 🚧 Repository Coming Soon
 
