@@ -39,12 +39,12 @@ Rather than building isolated workflows, I design connected systems—where AI, 
 <tr>
 <td>
 
-<img src="./assets/flowforge-thumb.png" width="100%" alt="FlowForge AVA workflow screenshot"/>
-
 ### 🚀 FlowForge AVA
 **AI Lead Operating System**
 
-A production-ready multi-agent AI platform that automates the complete lead lifecycle — customer engagement, qualification, scheduling, and CRM sync — through a coordinated network of specialized AI agents.
+<img src="./assets/flowforge-thumb.png" width="100%" alt="FlowForge AVA workflow screenshot"/>
+
+Production-ready multi-agent AI platform for autonomous lead qualification, customer engagement, appointment scheduling, and CRM synchronization.
 
 **Highlights**
 - Multi-Agent AI Architecture
@@ -54,7 +54,7 @@ A production-ready multi-agent AI platform that automates the complete lead life
 
 **Technology**: OpenAI · n8n · Docker · WhatsApp Business API · Google Calendar · Airtable
 
-➡️ **[Repository](https://github.com/oyekola-ololade/FlowForge-Ava-AI)**
+[View Architecture →](#) · [View Demo →](#) · [Repository →](https://github.com/oyekola-ololade/FlowForge-Ava-AI)
 
 </td>
 </tr>
@@ -66,12 +66,12 @@ A production-ready multi-agent AI platform that automates the complete lead life
 <tr>
 <td>
 
-<img src="./assets/mailiq-thumb.png" width="100%" alt="MailIQ dashboard screenshot"/>
-
 ### 📧 MailIQ
 **AI Email Intelligence Platform**
 
-A multi-tenant SaaS platform that monitors Gmail and Outlook in real time, classifies email with AI, and delivers structured summaries across WhatsApp, Telegram, Slack, and Discord — with personalized AI agents provisioned automatically per customer.
+<img src="./assets/mailiq-thumb.png" width="100%" alt="MailIQ dashboard screenshot"/>
+
+Multi-tenant SaaS platform that monitors Gmail and Outlook in real time, classifies email with AI, and delivers structured summaries across WhatsApp, Telegram, Slack, and Discord — with personalized AI agents provisioned automatically per customer.
 
 **Highlights**
 - Multi-Tenant SaaS Architecture
@@ -81,7 +81,7 @@ A multi-tenant SaaS platform that monitors Gmail and Outlook in real time, class
 
 **Technology**: OpenAI · Python · n8n · Docker · Railway · OAuth 2.0 · Paystack
 
-➡️ **[Repository](https://github.com/oyekola-ololade/Mail-IQ)**
+[View Architecture →](#) · [View Demo →](#) · [Repository →](https://github.com/oyekola-ololade/Mail-IQ)
 
 </td>
 </tr>
@@ -93,12 +93,12 @@ A multi-tenant SaaS platform that monitors Gmail and Outlook in real time, class
 <tr>
 <td>
 
-<img src="./assets/newsiq-thumb.png" width="100%" alt="NewsIQ pipeline screenshot"/>
-
 ### 📰 NewsIQ
 **Enterprise AI News Intelligence Platform**
 
-A distributed AI system automating the full news production lifecycle — ingestion, verification, AI-assisted content generation, media production, and distribution — through a fault-tolerant orchestration engine.
+<img src="./assets/newsiq-thumb.png" width="100%" alt="NewsIQ pipeline screenshot"/>
+
+Distributed AI system automating the full news production lifecycle — ingestion, verification, AI-assisted content generation, media production, and distribution — through a fault-tolerant orchestration engine.
 
 **Highlights**
 - Multi-Stage Processing Pipeline
@@ -108,7 +108,7 @@ A distributed AI system automating the full news production lifecycle — ingest
 
 **Technology**: OpenAI · Python · n8n · Docker · FFmpeg
 
-🚧 **Repository Coming Soon**
+🚧 Repository Coming Soon
 
 </td>
 </tr>
@@ -157,10 +157,10 @@ A distributed AI system automating the full news production lifecycle — ingest
 
 # Current Focus
 
-- Production-ready AI Systems
-- Multi-Agent Architectures
-- Cloud Engineering
-- Distributed Workflow Systems
+- Building production-ready AI systems
+- Advancing multi-agent architectures
+- Deepening cloud engineering expertise
+- Designing distributed workflow systems
 
 ---
 
@@ -187,5 +187,5 @@ A distributed AI system automating the full news production lifecycle — ingest
 ---
 
 <p align="center">
-<i>Designing Systems, Not Just Automations.</i>
+<i>Engineering systems that solve real business problems.</i>
 </p>
