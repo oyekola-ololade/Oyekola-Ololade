@@ -18,10 +18,21 @@
 
 </p>
 ---
+## Engineering Philosophy
+
+I don't begin by asking **"What automation should we build?"**
+
+I begin by asking **"What operational problem are we actually solving?"**
+
+Every system I design starts with understanding the business, identifying operational bottlenecks, anticipating future constraints, and engineering software that remains reliable, maintainable, and scalable as complexity grows.
+
+Technology is simply the implementation.
+
+**The business problem always comes first.**
 
 # About Me
 
-I design and engineer AI systems that solve operational challenges—not just automate individual tasks.
+I design and engineer AI systems that solve operational challenges not just automate individual tasks.
 
 Every system I build begins with understanding the business itself. I analyze workflows, identify bottlenecks, anticipate operational constraints, and engineer reliable systems that continue delivering value as they grow.
 
