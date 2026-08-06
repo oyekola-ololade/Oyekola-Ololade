@@ -27,7 +27,7 @@ I begin by asking **"What operational problem are we actually solving?"**
 
 Every system I engineer starts with understanding how a business operates, identifying the constraints that slow it down, and designing software that continues delivering value as those operations grow in complexity.
 
-Rather than building isolated workflows, I design connected systems—where AI, APIs, databases, business processes, and people work together as a single architecture.
+Rather than building isolated workflows, I design connected systems where AI, APIs, databases, business processes, and people work together as a single architecture.
 
 > **Design systems that solve today's problem without becoming tomorrow's bottleneck.**
 
