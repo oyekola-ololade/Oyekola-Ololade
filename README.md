@@ -1,13 +1,16 @@
-<h1 align="center">Hi 👋, I'm Oyekola Ololade</h1>
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="Oyekola Ololade Banner"/>
+</p>
 
-<h3 align="center">AI Systems Engineer</h3>
+<h1 align="center">AI Systems Engineer</h1>
 
 <p align="center">
 <i>Designing Systems, Not Just Automations.</i>
 </p>
 
 <p align="center">
-I engineer production-ready AI systems that solve real business problems through intelligent architecture, workflow orchestration, and scalable software design.
+Engineering production-ready AI systems through intelligent architecture,
+workflow orchestration, and scalable software design.
 </p>
 
 <p align="center">
@@ -25,7 +28,6 @@ I engineer production-ready AI systems that solve real business problems through
 </a>
 
 </p>
-
 ---
 
 # About Me
