@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+<i>Building production-ready AI systems that combine intelligent decision-making, workflow orchestration, and scalable software architecture.</i>
+</p>
+
+<p align="center">
   <a href="https://github.com/oyekola-ololade">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -25,59 +29,32 @@ Every system I engineer starts with understanding how a business operates, ident
 
 Rather than building isolated workflows, I design connected systems—where AI, APIs, databases, business processes, and people work together as a single architecture.
 
-Whether the challenge involves lead management, customer communication, content operations, internal workflows, or enterprise automation, my goal remains the same:
-
 > **Design systems that solve today's problem without becoming tomorrow's bottleneck.**
-
----
-
-# What I Engineer
-
-I specialize in engineering production-ready AI systems that combine intelligent decision-making with reliable business automation.
-
-### Core Areas
-
-- 🤖 Multi-Agent AI Systems
-- ⚙️ Workflow Orchestration
-- 📦 SaaS Architecture
-- 🔗 API Integrations
-- 🧠 AI Memory Systems
-- ☁️ Cloud-Ready Automation
-- 🗄️ Data & Workflow Architecture
-- 📈 Business Process Engineering
 
 ---
 
 # Featured Systems
 
-The projects below represent my approach to systems engineering—designing scalable AI solutions that solve real operational challenges rather than isolated automation tasks.
-
 <table width="100%">
 <tr>
 <td>
+
+<img src="./assets/flowforge-thumb.png" width="100%" alt="FlowForge AVA workflow screenshot"/>
 
 ### 🚀 FlowForge AVA
 **AI Lead Operating System**
 
-FlowForge AVA is a production-ready multi-agent AI platform engineered to automate the complete lead management lifecycle for modern businesses.
-
-Rather than relying on a single AI assistant, FlowForge coordinates specialized AI agents responsible for customer engagement, lead qualification, appointment scheduling, CRM synchronization, and business operations—creating an intelligent system that operates as a unified workflow.
+A production-ready multi-agent AI platform that automates the complete lead lifecycle — customer engagement, qualification, scheduling, and CRM sync — through a coordinated network of specialized AI agents.
 
 **Highlights**
-- 🤖 Multi-Agent AI Architecture
-- 🎯 Autonomous Lead Qualification
-- 💬 WhatsApp Business Automation
-- 🔄 CRM Synchronization
-- 📅 Google Calendar Scheduling
-- 🧠 Long-Term Conversation Memory
-- 🚨 Error Monitoring & Admin Alerting
-- 🧩 Modular Business Logic
+- Multi-Agent AI Architecture
+- Autonomous Lead Qualification
+- Google Calendar Scheduling
+- Long-Term Conversation Memory
 
-**Technology**
+**Technology**: OpenAI · n8n · Docker · WhatsApp Business API · Google Calendar · Airtable
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Calendar-4285F4?style=flat-square&logo=googlecalendar&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Docs-4285F4?style=flat-square&logo=googledocs&logoColor=white"/> <img src="https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white"/>
-
-➡️ **Repository**: https://github.com/oyekola-ololade/FlowForge-Ava-AI
+➡️ **[Repository](https://github.com/oyekola-ololade/FlowForge-Ava-AI)**
 
 </td>
 </tr>
@@ -88,30 +65,23 @@ Rather than relying on a single AI assistant, FlowForge coordinates specialized 
 <table width="100%">
 <tr>
 <td>
+
+<img src="./assets/mailiq-thumb.png" width="100%" alt="MailIQ dashboard screenshot"/>
 
 ### 📧 MailIQ
 **AI Email Intelligence Platform**
 
-MailIQ is a multi-tenant SaaS platform that transforms incoming emails into structured, actionable intelligence.
-
-Designed for businesses managing high communication volumes, the platform monitors Gmail and Outlook inboxes in real time, classifies messages using AI, generates contextual summaries, prioritizes urgency, and delivers results across WhatsApp, Telegram, Slack, and Discord within seconds.
-
-Its architecture automatically provisions personalized AI agents for every customer, enabling scalable deployment without manual configuration.
+A multi-tenant SaaS platform that monitors Gmail and Outlook in real time, classifies email with AI, and delivers structured summaries across WhatsApp, Telegram, Slack, and Discord — with personalized AI agents provisioned automatically per customer.
 
 **Highlights**
-- 🏢 Multi-Tenant SaaS Architecture
-- 📬 AI Email Classification
-- 🧠 Intelligent Summarization
-- 🔐 OAuth 2.0 Authentication
-- 💳 Subscription Management
-- 🤖 Automated AI Agent Provisioning
-- ⚙️ Enterprise Workflow Automation
+- Multi-Tenant SaaS Architecture
+- AI Email Classification
+- OAuth 2.0 Authentication
+- Automated AI Agent Provisioning
 
-**Technology**
+**Technology**: OpenAI · Python · n8n · Docker · Railway · OAuth 2.0 · Paystack
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white"/> <img src="https://img.shields.io/badge/OAuth_2.0-3C873A?style=flat-square&logo=auth0&logoColor=white"/> <img src="https://img.shields.io/badge/Paystack-00C3F7?style=flat-square&logo=paystack&logoColor=white"/>
-
-➡️ **Repository**: https://github.com/oyekola-ololade/Mail-IQ
+➡️ **[Repository](https://github.com/oyekola-ololade/Mail-IQ)**
 
 </td>
 </tr>
@@ -123,28 +93,20 @@ Its architecture automatically provisions personalized AI agents for every custo
 <tr>
 <td>
 
+<img src="./assets/newsiq-thumb.png" width="100%" alt="NewsIQ pipeline screenshot"/>
+
 ### 📰 NewsIQ
 **Enterprise AI News Intelligence Platform**
 
-NewsIQ is an enterprise-scale AI system designed to automate the complete news production lifecycle.
-
-The platform orchestrates a multi-stage pipeline that ingests information from multiple sources, performs normalization, AI clustering, editorial prioritization, verification, media enrichment, automated content generation, media production, distribution, analytics, and long-term memory management.
-
-Its architecture was designed around centralized orchestration with fault-tolerant execution, ensuring failures within individual stages never interrupt the overall pipeline.
+A distributed AI system automating the full news production lifecycle — ingestion, verification, AI-assisted content generation, media production, and distribution — through a fault-tolerant orchestration engine.
 
 **Highlights**
-- 📰 AI News Intelligence
-- 🔀 Multi-Stage Processing Pipeline
-- 🗞️ Editorial Prioritization
-- ✍️ AI Content Generation
-- 🎬 Automated Media Production
-- 📡 Distribution Automation
-- 📊 Analytics Pipeline
-- 🧠 Long-Term Memory Architecture
+- Multi-Stage Processing Pipeline
+- Editorial Prioritization
+- Automated Media Production
+- Long-Term Memory Architecture
 
-**Technology**
-
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white"/>
+**Technology**: OpenAI · Python · n8n · Docker · FFmpeg
 
 🚧 **Repository Coming Soon**
 
@@ -158,56 +120,21 @@ Its architecture was designed around centralized orchestration with fault-tolera
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,javascript,docker,git,github,postgres,supabase"/>
-<br><br>
-<img src="https://skillicons.dev/icons?i=vscode,netlify"/>
 </p>
 
-### AI Engineering
-- OpenAI API
-- Prompt Engineering
-- Multi-Agent AI Systems
-- AI Agent Orchestration
-- AI Memory Architecture
-- Structured Prompt Design
-- Retrieval-Augmented Workflows
+**AI Engineering**: OpenAI API · Prompt Engineering · Multi-Agent Systems · AI Memory Architecture
 
----
+**Workflow & Automation**: n8n · Make · Zapier · Event-Driven Architecture · Webhooks
 
-### Workflow & Automation
-- n8n
-- Make
-- Zapier
-- Enterprise Workflow Automation
-- Event-Driven Architecture
-- Webhooks
-- REST API Integrations
-- Error Handling & Monitoring
+**Backend & Infrastructure**: Python · JavaScript · PostgreSQL · Supabase · Docker · Railway · OAuth 2.0
 
----
-
-### Backend & Infrastructure
-- Python
-- JavaScript
-- PostgreSQL
-- Supabase
-- Docker
-- Railway
-- OAuth 2.0
-- JWT Authentication
-
----
-
-### Business Integrations
-
-<img src="https://img.shields.io/badge/WhatsApp_Business-25D366?style=flat-square&logo=whatsapp&logoColor=white"/> <img src="https://img.shields.io/badge/Evolution_API-000000?style=flat-square"/> <img src="https://img.shields.io/badge/Google_Calendar-4285F4?style=flat-square&logo=googlecalendar&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Docs-4285F4?style=flat-square&logo=googledocs&logoColor=white"/> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft_Graph-0078D4?style=flat-square&logo=microsoft&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/> <img src="https://img.shields.io/badge/Paystack-00C3F7?style=flat-square&logo=paystack&logoColor=white"/>
+**Business Integrations**: WhatsApp Business API · Google Workspace APIs · Slack · Discord · Telegram · Paystack
 
 ---
 
 # Engineering Principles
 
 > **Technology should follow the business problem—not the other way around.**
-
-The principles below guide every system I design.
 
 - Solve the business problem before choosing the technology.
 - Design systems, not isolated automations.
@@ -218,8 +145,6 @@ The principles below guide every system I design.
 ---
 
 # Beyond My Flagship Systems
-
-In addition to FlowForge AVA, MailIQ, and NewsIQ, I've engineered AI-powered solutions across multiple industries.
 
 - 🚚 SwiftRoute Freight — Logistics & Shipment Automation
 - 💬 Leadly — Multi-Tenant AI Chatbot SaaS Platform
@@ -232,13 +157,10 @@ In addition to FlowForge AVA, MailIQ, and NewsIQ, I've engineered AI-powered sol
 
 # Current Focus
 
-I'm currently focused on advancing my expertise in:
-
 - Production-ready AI Systems
 - Multi-Agent Architectures
 - Cloud Engineering
 - Distributed Workflow Systems
-- Scalable SaaS Infrastructure
 
 ---
 
@@ -252,8 +174,6 @@ I'm currently focused on advancing my expertise in:
 ---
 
 # Let's Connect
-
-I'm always interested in conversations around AI systems, software architecture, workflow orchestration, and building technology that solves meaningful operational problems.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ololade-oyekola-5b1797397/">
