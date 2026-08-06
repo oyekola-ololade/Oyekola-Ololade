@@ -2,17 +2,6 @@
   <img src="./assets/banner.png" width="100%" alt="Oyekola Ololade Banner"/>
 </p>
 
-<h1 align="center">AI Systems Engineer</h1>
-
-<p align="center">
-<i>Designing Systems, Not Just Automations.</i>
-</p>
-
-<p align="center">
-Engineering production-ready AI systems through intelligent architecture,
-workflow orchestration, and scalable software design.
-</p>
-
 <p align="center">
 
 <a href="https://github.com/oyekola-ololade">
