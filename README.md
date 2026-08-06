@@ -40,58 +40,74 @@ My work combines AI, workflow orchestration, APIs, and scalable architectures to
 
 ---
 
-<h2>🚀 Featured Systems</h2>
+# Featured Systems
+
+The projects below represent my approach to systems engineering—designing scalable AI solutions that solve real operational challenges rather than isolated automation tasks.
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-<h3>🚀 FlowForge AVA</h3>
+### 🚀 FlowForge AVA
+**AI Lead Operating System**
 
-<b>AI Lead Operating System</b>
+Multi-agent AI platform that qualifies leads, answers enquiries, checks calendar availability, syncs CRM data, and books meetings — coordinated through specialized AI agents.
 
-Production-ready multi-agent AI system for WhatsApp that qualifies leads, synchronizes CRM data, and schedules meetings autonomously.
+**Highlights**
+- Multi-Agent AI Architecture
+- Autonomous Lead Qualification
+- WhatsApp Business Automation
+- CRM Synchronization
+- Google Calendar Scheduling
+- Long-Term Conversation Memory
 
-<br><br>
+`OpenAI` `n8n` `Docker` `WhatsApp API` `Google Calendar` `Google Docs` `Airtable`
 
-<a href="https://github.com/oyekola-ololade/FlowForge-Ava-AI">
-View Repository →
-</a>
-
-</td>
-
-<td width="33%" valign="top">
-
-<h3>📧 MailIQ</h3>
-
-<b>AI Email Intelligence Platform</b>
-
-Multi-tenant SaaS platform that transforms incoming emails into AI-powered summaries delivered across multiple communication channels.
-
-<br><br>
-
-<a href="https://github.com/oyekola-ololade/Mail-IQ">
-View Repository →
-</a>
+➡️ [Repository](https://github.com/oyekola-ololade/FlowForge-Ava-AI)
 
 </td>
-
 <td width="33%" valign="top">
 
-<h3>📰 NewsIQ</h3>
+### 📧 MailIQ
+**AI Email Intelligence Platform**
 
-<b>Enterprise AI News Platform</b>
+Multi-tenant SaaS platform that monitors Gmail and Outlook inboxes, classifies emails with AI, and delivers structured summaries to WhatsApp, Telegram, Slack, and Discord in real time.
 
-Fault-tolerant AI news pipeline automating ingestion, clustering, verification, media production, and distribution.
+**Highlights**
+- Multi-Tenant SaaS Architecture
+- AI Email Classification
+- Intelligent Summarization
+- OAuth 2.0 Authentication
+- Automated AI Agent Provisioning
+- Subscription Management
 
-<br><br>
+`OpenAI` `Python` `n8n` `Docker` `Railway` `OAuth 2.0` `Paystack`
 
-🚧 Coming Soon
+➡️ [Repository](https://github.com/oyekola-ololade/Mail-IQ)
+
+</td>
+<td width="33%" valign="top">
+
+### 📰 NewsIQ
+**Enterprise AI News Intelligence Platform**
+
+Distributed AI system automating the full news production lifecycle — ingestion, verification, AI-assisted content generation, media production, distribution, and analytics through a fault-tolerant orchestration engine.
+
+**Highlights**
+- Multi-Stage Processing Pipeline
+- Editorial Prioritization
+- AI Content Generation
+- Automated Media Production
+- Distribution Automation
+- Long-Term Memory Architecture
+
+`OpenAI` `Python` `n8n` `Docker` `FFmpeg`
+
+🚧 Repository Coming Soon
 
 </td>
 </tr>
 </table>
-
 ---
 
 # 🛠 Engineering Toolkit
