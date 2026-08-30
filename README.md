@@ -178,6 +178,35 @@ Real implementation work using Python, SQL, Docker/Railway, and five n8n workflo
 <tr>
 <td>
 
+### 🚚 SwiftRoute
+**Freight Order Control & Audit API**
+
+**Evidence status:** Early implementation · locally tested
+
+A working Python vertical slice for validated freight-order intake, idempotent creation, controlled supervisor approval or rejection, SQLite persistence, and transactional audit events.
+
+**What it demonstrates**
+
+- Standard-library Python HTTP API design
+- Idempotency and conflicting-request protection
+- Controlled state transitions with human review
+- Atomic order and audit-event persistence
+- Unit, HTTP integration, concurrency, and synthetic stress testing
+
+**Current boundary:** SwiftRoute is not deployed, does not process real shipments, and does not yet include authentication, PostgreSQL, courier integrations, notifications, payments, or a customer portal.
+
+[Repository →](https://github.com/oyekola-ololade/SwiftRoute)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table width="100%">
+<tr>
+<td>
+
 ### 🧩 30-Workflow n8n Template Library
 **Sanitized Automation Portfolio**
 
@@ -200,7 +229,7 @@ Thirty individual repositories with importable workflow JSON, setup instructions
 </tr>
 </table>
 
-> **Concept boundary:** [SwiftRoute](https://github.com/oyekola-ololade/SwiftRoute), ChatIQ/Leadly, and MINT remain concepts or specifications. They are not presented as completed client work, deployed systems, or revenue-generating products.
+> **Concept boundary:** ChatIQ/Leadly and MINT remain concepts or specifications. They are not presented as completed client work, deployed systems, or revenue-generating products.
 
 ---
 
