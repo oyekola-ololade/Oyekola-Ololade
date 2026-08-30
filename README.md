@@ -52,18 +52,155 @@ flowchart LR
 
 ---
 
-## Portfolio Evidence
+## Featured Systems
 
-The status labels below are deliberate. A template, demo, prototype, and production deployment are not the same thing.
+The status labels are deliberate: a verified build, working demo, offline prototype, partial MVP, and concept are not the same thing.
 
-| System | Evidence status | What the repository or project demonstrates | Current limitation |
-|---|---|---|---|
-| [FlowForge AVA](https://github.com/oyekola-ololade/FlowForge-Ava-AI) | **Verified build with limitations** | Multi-agent lead and customer-operations flow with WhatsApp intake, validation, intent handling, memory, specialized agents, human handoff, CRM, calendar, and alerts | Production readiness and measurable business outcomes are not claimed |
-| [Candidate Screening](https://github.com/oyekola-ololade/cv-screening-automation) | **Working demo** | Structured intake, extraction, duplicate detection, controlled AI matching, scoring, database update, and recruiter review | Demonstration only; not an autonomous hiring or production-compliance system |
-| [MailIQ](https://github.com/oyekola-ololade/Mail-IQ) | **Prototype under repair · historical/offline** | Substantial multi-tenant email-intelligence architecture for Gmail/Outlook monitoring and structured routing to messaging channels | Offline, no paying customers, and reliability gaps remain |
-| NewsIQ | **Partial MVP** | Python, SQL, Docker/Railway, and five n8n workflows for an AI news-intelligence pipeline | Not a complete live production or social-publishing system |
-| [30-workflow template library](#n8n-template-library) | **Sanitized portfolio templates** | Importable n8n workflow JSON, setup notes, visual pages, and repository-specific architecture diagrams | Credentials are placeholders and configured live-run videos are not included yet |
-| SwiftRoute | **Concept / specification** | Logistics-system architecture and product thinking | Not client work, a deployment, or evidence of measured outcomes |
+<table width="100%">
+<tr>
+<td>
+
+### 🚀 FlowForge AVA
+**Multi-Agent Lead & Customer Operations System**
+
+<img src="./assets/flowforge-thumb.png" width="100%" alt="FlowForge AVA workflow screenshot"/>
+
+**Evidence status:** Verified build with limitations
+
+A real multi-agent workflow covering WhatsApp intake, validation, intent handling, memory, specialized agents, human handoff, CRM updates, calendar actions, and operational alerts.
+
+**What it demonstrates**
+
+- Multi-agent workflow orchestration
+- Validation, routing, memory, and human handoff
+- CRM, calendar, WhatsApp, and alert integrations
+- Production-oriented architecture and documentation
+
+**Current boundary:** Production readiness, guaranteed reliability, measurable ROI, and client outcomes are not claimed.
+
+[Repository →](https://github.com/oyekola-ololade/FlowForge-Ava-AI)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table width="100%">
+<tr>
+<td>
+
+### 🧑🏿‍💼 Candidate Screening
+**Human-Reviewed Recruitment Workflow**
+
+**Evidence status:** Working demo
+
+A controlled recruitment demonstration covering structured candidate intake, extraction, duplicate detection, AI-assisted matching, scoring, database updates, and manual recruiter review.
+
+**What it demonstrates**
+
+- Structured document and candidate-data extraction
+- Duplicate detection and controlled matching
+- Scoring support with a human decision boundary
+- Database updates and review workflow
+
+**Current boundary:** This is not an autonomous hiring system, a production-compliance claim, or evidence of deployment at scale.
+
+[Repository →](https://github.com/oyekola-ololade/cv-screening-automation)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table width="100%">
+<tr>
+<td>
+
+### 📧 MailIQ
+**Multi-Tenant Email Intelligence Prototype**
+
+<img src="./assets/mailiq-thumb.png" width="100%" alt="MailIQ dashboard screenshot"/>
+
+**Evidence status:** Prototype under repair · historical/offline
+
+A substantial multi-tenant email-intelligence prototype designed around Gmail and Outlook monitoring, AI-assisted classification, and structured routing to WhatsApp, Telegram, Slack, and Discord.
+
+**What it demonstrates**
+
+- Multi-tenant workflow architecture
+- Email monitoring and structured classification
+- Messaging-channel routing
+- Provisioning and subscription-system design work
+
+**Current boundary:** MailIQ is offline, has no paying customers, and still has reliability gaps. It is not presented as a currently live or production-ready SaaS.
+
+[Repository →](https://github.com/oyekola-ololade/Mail-IQ)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table width="100%">
+<tr>
+<td>
+
+### 📰 NewsIQ
+**AI News-Intelligence Pipeline**
+
+<img src="./assets/newsiq-thumb.png" width="100%" alt="NewsIQ pipeline screenshot"/>
+
+**Evidence status:** Partial MVP
+
+Real implementation work using Python, SQL, Docker/Railway, and five n8n workflows for an AI-assisted news-intelligence pipeline.
+
+**What it demonstrates**
+
+- Multi-stage processing and orchestration
+- Python, SQL, Docker/Railway, and n8n integration
+- Editorial prioritization and pipeline design
+- Partial implementation beyond a written concept
+
+**Current boundary:** NewsIQ is not a complete live ten-stage production system, and real social-platform publishing is not claimed.
+
+**Public repository:** Not published yet
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table width="100%">
+<tr>
+<td>
+
+### 🧩 30-Workflow n8n Template Library
+**Sanitized Automation Portfolio**
+
+**Evidence status:** Portfolio/template assets
+
+Thirty individual repositories with importable workflow JSON, setup instructions, visual HTML project pages, and repository-specific Mermaid architecture diagrams.
+
+**What it demonstrates**
+
+- Workflow decomposition across sales, support, ecommerce, reporting, and operations
+- API, webhook, routing, validation, and AI-assisted patterns
+- Sanitized configuration and handoff documentation
+- Clear architecture and buyer-readable use cases
+
+**Current boundary:** Credentials and service identifiers are placeholders. Configured live-run videos are not included yet, and the templates are not claimed as production deployments.
+
+[Browse all repositories →](https://github.com/oyekola-ololade?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+> **Concept boundary:** SwiftRoute, ChatIQ/Leadly, and MINT remain concepts or specifications. They are not presented as completed client work, deployed systems, or revenue-generating products.
 
 ---
 
