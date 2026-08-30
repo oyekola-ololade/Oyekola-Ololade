@@ -166,7 +166,7 @@ Real implementation work using Python, SQL, Docker/Railway, and five n8n workflo
 
 **Current boundary:** NewsIQ is not a complete live ten-stage production system, and real social-platform publishing is not claimed.
 
-**Public repository:** Not published yet
+[Repository →](https://github.com/oyekola-ololade/NewsIQ)
 
 </td>
 </tr>
@@ -200,7 +200,7 @@ Thirty individual repositories with importable workflow JSON, setup instructions
 </tr>
 </table>
 
-> **Concept boundary:** SwiftRoute, ChatIQ/Leadly, and MINT remain concepts or specifications. They are not presented as completed client work, deployed systems, or revenue-generating products.
+> **Concept boundary:** [SwiftRoute](https://github.com/oyekola-ololade/SwiftRoute), ChatIQ/Leadly, and MINT remain concepts or specifications. They are not presented as completed client work, deployed systems, or revenue-generating products.
 
 ---
 
