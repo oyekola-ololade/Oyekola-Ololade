@@ -44,7 +44,7 @@ flowchart LR
 
 ## Featured Systems
 
-The labels below are evidence labels, not marketing labels. A verified build, offline prototype, partial MVP, local implementation, and template draft are different things.
+The labels below are evidence labels, not marketing labels. A verified build, offline prototype, partial MVP, local implementation, under-repair workflow, and template draft are different things.
 
 ### 🚀 FlowForge AVA — Multi-Agent Lead & Customer Operations
 
@@ -108,15 +108,17 @@ Implementation work using Python, PostgreSQL/pgvector, Docker/Railway configurat
 
 ---
 
-### 🧑🏿‍💼 Candidate Screening — Human-Reviewed Recruitment Workflow
+### 🧑🏿‍💼 Candidate Screening — Recruitment Workflow Under Repair
 
-**Evidence status:** Working demo
+**Evidence status:** Partial implementation · under repair
 
-A bounded workflow demonstration covering candidate intake, extraction, duplicate detection, AI-assisted matching/scoring, database updates, and manual recruiter review.
+A 13-node n8n screening workflow with real intake, persistence, requirement lookup, structured AI-evaluation, validation, and response components. The current checked-in export also contains known defects that prevent it from being represented as a verified working demo.
 
-**Strongest proof:** structured extraction, deterministic checks around AI assistance, duplicate handling, and an explicit human-decision boundary.
+**Strongest proof:** inspectable workflow structure, structured AI-output contract, explicit failure/success response nodes, and a documented engineering diagnosis of the current defects.
 
-**Boundary:** not an autonomous hiring system, production-compliance claim, or scale/deployment claim.
+**Current defects:** extraction routing is reversed, duplicate detection is placeholder logic rather than an authoritative datastore lookup, and candidate state is not reliably preserved into the final update path.
+
+**Boundary:** historical walkthrough evidence is preserved, but the current repository must not be described as a working end-to-end recruiter workflow until v2 repair and representative reruns are completed.
 
 [Repository →](https://github.com/oyekola-ololade/cv-screening-automation)
 
