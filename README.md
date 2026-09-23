@@ -64,6 +64,16 @@ These public demos use synthetic data and are intended to show customer-support,
 
 ---
 
+## Hire / Service Packages
+
+- [Custom n8n workflows & API integrations](https://reworkdigital.io/services/50) — from $150
+- [WhatsApp AI chatbot & lead qualification](https://reworkdigital.io/services/51) — from $200
+- [REWORK professional profile](https://reworkdigital.io/professional/ololadeoyekola6526/)
+
+For custom systems, the scope is defined around the current workflow, integrations, reliability requirements, and human-review boundaries rather than forcing every problem into a fixed template.
+
+---
+
 ## Featured Systems
 
 The labels below are evidence labels, not marketing labels. A verified build, offline prototype, partial MVP, local implementation, under-repair workflow, and template draft are different things.
