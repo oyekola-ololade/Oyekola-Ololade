@@ -12,6 +12,8 @@
 <p align="center">
   <a href="https://github.com/oyekola-ololade"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/ololade-oyekola-5b1797397/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://reworkdigital.io/professional/ololadeoyekola6526/"><img src="https://img.shields.io/badge/REWORK-5B3CF4?style=for-the-badge" alt="REWORK"/></a>
+  <a href="https://oyekola-systems-portfolio.oyekolaololade698.chatgpt.site/"><img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge" alt="Portfolio"/></a>
   <a href="mailto:oyekolaololade69@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -39,6 +41,26 @@ flowchart LR
     C --> F["Fallback + human review"]
     D --> G["Logs + alerts + handoff"]
 ```
+
+---
+
+## Verified Proof & Live Demos
+
+### FlowForge AVA — verified portfolio build
+
+- [Repository](https://github.com/oyekola-ololade/FlowForge-Ava-AI)
+- [REWORK verification certificate](https://reworkdigital.io/certificates/share/msi8yn4o-p0zu0cxu/)
+- Includes WhatsApp-style intake, validation, conversation memory, specialist agents, Airtable CRM actions, Google Calendar actions, alerts, and explicit human handoff.
+- Evidence boundary: portfolio build with controlled/demo data; not a claim of client-scale production results or measured ROI.
+
+### Bizi Systems — working customer-operations demos
+
+These public demos use synthetic data and are intended to show customer-support, CRM, staff ownership, follow-up, and human-takeover workflows.
+
+- [Hospitality Care](https://bizi-hospitality-care-demo-production.up.railway.app)
+- [Logistics Care](https://bizi-logistics-care-demo-production.up.railway.app)
+- [Real Estate Care](https://bizi-real-estate-demo-production.up.railway.app)
+- [Aesthetic Care](https://bizi-aesthetic-care-demo-production.up.railway.app)
 
 ---
 
@@ -144,7 +166,7 @@ Until each template passes import, connection-graph, expression, API-version, an
   <img src="https://skillicons.dev/icons?i=python,javascript,docker,git,github,postgres,supabase" alt="Python, JavaScript, Docker, Git, GitHub, PostgreSQL, and Supabase"/>
 </p>
 
-- **Workflow orchestration:** n8n, Make, webhooks, scheduled and event-driven workflows
+- **Workflow orchestration:** n8n, Make, Zapier, webhooks, scheduled and event-driven workflows
 - **Software and data:** Python, JavaScript, SQL, PostgreSQL, Supabase
 - **Infrastructure:** Docker, Railway, Git, GitHub
 - **Integrations:** WhatsApp, Slack, Google Workspace, Airtable, Telegram, Discord, and REST APIs
@@ -178,6 +200,8 @@ Until each template passes import, connection-graph, expression, API-version, an
 
 For workflow diagnostics, automation repair, integration work, or AI-system implementation:
 
+- [Portfolio](https://oyekola-systems-portfolio.oyekolaololade698.chatgpt.site/)
+- [REWORK profile](https://reworkdigital.io/professional/ololadeoyekola6526/)
 - [LinkedIn](https://www.linkedin.com/in/ololade-oyekola-5b1797397/)
 - [Email](mailto:oyekolaololade69@gmail.com)
 
